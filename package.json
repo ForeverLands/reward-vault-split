@@ -1,0 +1,16 @@
+{
+  "name": "reward-vault-split",
+  "version": "1.0.0",
+  "description": "ForeverLands Vault Split",
+  "main": "index.mjs",
+  "scripts": {
+    "split": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulius Uza <pauliusuza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.4.0",
+    "prando": "^6.0.1"
+  }
+}
